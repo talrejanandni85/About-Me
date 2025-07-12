@@ -14,12 +14,15 @@
 - **Tools:** Git, Jira, Amazon Seller Central, Airtable
 
 📌 **Projects:**
-- **[E-commerce Analytics Dashboard](link-to-repo):** Built interactive dashboards tracking KPIs such as customer segmentation, sales forecasting, and inventory turnover.
+- **[E-commerce Analytics Dashboard](link-to-repo):** Built interactive dashboards tracking KPIs such as customer segmentation, sales forecasting, and inventory 
+turnover.
 - **[Vehicular Cybersecurity Study](link-to-repo):** Analyzed law enforcement’s knowledge of vehicular cybersecurity using R and visualization techniques.
 
 📌 **Certifications:**
 - Microsoft Azure Data Fundamentals (DP-900)
-- [Your future PL-300 certification]
+[NT Microsoft Azure Certification.pdf](https://github.com/user-attachments/files/21192164/NT.Microsoft.Azure.Certification.pdf)
+- W3Schools SQL Intermidiate Certification
+[SQL Intermediate Certificate.pdf](https://github.com/user-attachments/files/21192167/SQL.Intermediate.Certificate.pdf)
 
 📌 **Connect with Me:**
 - [LinkedIn](www.linkedin.com/in/nandni-talreja)
