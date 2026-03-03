@@ -13,7 +13,8 @@ My work has contributed to **3 peer-reviewed publications** and been presented t
 **Languages & Querying:** R · SQL · Python · MATLAB  
 **Visualization & BI:** Tableau · Power BI · Excel (PivotTables, XLOOKUP, PowerPivot) · ggplot2  
 **Statistical Methods:** Regression · EFA/PCA · Psychometrics · A/B Testing · Time Series · Hypothesis Testing  
-**Workflow & Reporting:** R Markdown · Quarto · ETL Pipelines · Git  
+**Financial Analysis:** Margin & Cost Analysis · Profitability Modeling · Pricing Strategies · Inventory Forecasting · Marketing ROI  
+**Workflow & Reporting:** R Markdown · Quarto · ETL Pipelines · Git R Markdown · Quarto · ETL Pipelines · Git  
 
 ---
 
@@ -21,8 +22,8 @@ My work has contributed to **3 peer-reviewed publications** and been presented t
 
 | Project | What It Is | Tools |
 |---|---|---|
-| [📚 K–12 Library Survey Analysis](https://github.com/talrejanandni85/cep-library-survey) | Psychometric analysis of 1,200+ student & teacher survey responses across 6 MA schools — EFA, PCA, reliability testing | R, ggplot2, psych |
-| [🚔 Law Enforcement Cybersecurity Study](https://github.com/talrejanandni85/leo-cybersecurity-study) | Experimental study on vehicle cybersecurity awareness among 14 LEOs — regression, correlation, driving simulator data | R, Quarto |
+| 📚 K–12 Library Survey Analysis | Psychometric analysis of 1,200+ student & teacher survey responses across 6 MA schools — EFA, PCA, reliability testing | R, ggplot2, psych |
+| 🚔 Law Enforcement Cybersecurity Study | Experimental study on vehicle cybersecurity awareness among 14 LEOs — regression, correlation, driving simulator data | R, Quarto |
 
 *More projects coming — Trendency ballot modeling and Pierre Henry e-commerce analysis in progress.*
 
@@ -32,7 +33,7 @@ My work has contributed to **3 peer-reviewed publications** and been presented t
 
 - Roberts S, Ebadi Y, **Talreja N**, Knodler M, Fisher D. *Designing and Evaluating an Informative Interface for Transfer of Control in a Level 2 Automated Driving System.* AutomotiveUI '22. [→ Read](https://doi.org/10.1145/3543174.3546839)
 - Roberts S, Hanson W, Ebadi Y, **Talreja N**, Knodler M, Fisher D. *Evaluation of a 3M training program for transfer of control in a level 2 automated driving system.* Applied Ergonomics, 2024. [→ Read](https://www.sciencedirect.com/science/article/pii/S0003687023002533)
-- Pamarthi J, Hanson W, **Talreja N**, Wang M, Roberts SC. *The effect of training on law enforcement response to vehicle cybersecurity events.*
+- Pamarthi J, Hanson W, **Talreja N**, Wang M, Roberts SC. *The effect of training on law enforcement response to vehicle cybersecurity events.* [→ Read](https://www.sciencedirect.com/science/article/pii/S2590198225003239#ak005)
 
 ---
 
